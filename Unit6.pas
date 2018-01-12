@@ -8,7 +8,6 @@ uses
 
 type
   TForm6 = class(TForm)
-    Button1: TButton;
     BitBtn1: TBitBtn;
     Memo1: TMemo;
     Label1: TLabel;

@@ -74,13 +74,4 @@ object Form3: TForm3
     WordWrap = True
     OnClick = Button3Click
   end
-  object Button4: TButton
-    Left = 1
-    Top = 8
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 3
-    OnClick = Button4Click
-  end
 end

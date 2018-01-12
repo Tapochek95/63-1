@@ -8,7 +8,6 @@ uses
 
 type
   TForm21 = class(TForm)
-    Button1: TButton;
     Button2: TButton;
     Label1: TLabel;
     Memo1: TMemo;

@@ -16,8 +16,8 @@ object Form23: TForm23
   object Label1: TLabel
     Left = 88
     Top = 8
-    Width = 297
-    Height = 69
+    Width = 292
+    Height = 46
     Caption = #1042#1074#1086#1076' '#1076#1074#1091#1084#1077#1088#1085#1086#1075#1086' '#1084#1072#1089#1089#1080#1074#1072' '#1089' '#1087#1086#1084#1086#1097#1100#1102' '#1090#1072#1073#1083#1080#1094#1099' StringGrid'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -167,14 +167,5 @@ object Form23: TForm23
     Caption = #1055#1088#1080#1084#1077#1088
     TabOrder = 1
     OnClick = Button2Click
-  end
-  object Button1: TButton
-    Left = 0
-    Top = 14
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 2
-    OnClick = Button1Click
   end
 end

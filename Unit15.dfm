@@ -27,15 +27,6 @@ object Form15: TForm15
     ParentFont = False
     WordWrap = True
   end
-  object Button1: TButton
-    Left = 0
-    Top = 14
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 0
-    OnClick = Button1Click
-  end
   object Memo1: TMemo
     Left = 8
     Top = 64
@@ -166,7 +157,7 @@ object Form15: TForm15
     ParentFont = False
     ReadOnly = True
     ScrollBars = ssVertical
-    TabOrder = 1
+    TabOrder = 0
   end
   object Button2: TButton
     Left = 384
@@ -174,7 +165,7 @@ object Form15: TForm15
     Width = 75
     Height = 25
     Caption = #1055#1088#1080#1084#1077#1088
-    TabOrder = 2
+    TabOrder = 1
     OnClick = Button2Click
   end
 end

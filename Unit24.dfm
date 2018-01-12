@@ -63,22 +63,13 @@ object Form24: TForm24
     Font.Style = []
     ParentFont = False
   end
-  object Button1: TButton
-    Left = 0
-    Top = 14
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 0
-    OnClick = Button1Click
-  end
   object Button2: TButton
     Left = 558
     Top = 357
     Width = 75
     Height = 25
     Caption = #1051#1080#1089#1090#1080#1085#1075
-    TabOrder = 1
+    TabOrder = 0
     OnClick = Button2Click
   end
   object Edit1: TEdit
@@ -92,7 +83,7 @@ object Form24: TForm24
     Font.Name = 'Tahoma'
     Font.Style = []
     ParentFont = False
-    TabOrder = 2
+    TabOrder = 1
   end
   object BitBtn1: TBitBtn
     Left = 256
@@ -101,7 +92,7 @@ object Form24: TForm24
     Height = 25
     Kind = bkOK
     NumGlyphs = 2
-    TabOrder = 3
+    TabOrder = 2
     OnClick = BitBtn1Click
   end
   object Button3: TButton
@@ -110,7 +101,7 @@ object Form24: TForm24
     Width = 75
     Height = 25
     Caption = 'CLEAR'
-    TabOrder = 4
+    TabOrder = 3
     OnClick = Button3Click
   end
   object StringGrid1: TStringGrid
@@ -121,7 +112,7 @@ object Form24: TForm24
     ColCount = 7
     FixedCols = 0
     Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing, goTabs, goAlwaysShowEditor]
-    TabOrder = 5
+    TabOrder = 4
     ColWidths = (
       111
       88

@@ -11,7 +11,6 @@ type
     Button1: TButton;
     Button2: TButton;
     Button3: TButton;
-    Button4: TButton;
     Label1: TLabel;
     procedure Button4Click(Sender: TObject);
     procedure Button3Click(Sender: TObject);

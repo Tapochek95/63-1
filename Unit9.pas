@@ -8,12 +8,10 @@ uses
 
 type
   TForm9 = class(TForm)
-    Button1: TButton;
     Label1: TLabel;
     Memo1: TMemo;
     Edit1: TEdit;
     BitBtn1: TBitBtn;
-    BitBtn2: TBitBtn;
     Button2: TButton;
     procedure BitBtn1Click(Sender: TObject);
     procedure BitBtn2Click(Sender: TObject);

@@ -31,15 +31,6 @@ object Form6: TForm6
     ParentFont = False
     WordWrap = True
   end
-  object Button1: TButton
-    Left = 0
-    Top = 8
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 0
-    OnClick = Button1Click
-  end
   object BitBtn1: TBitBtn
     Left = 114
     Top = 341
@@ -47,7 +38,7 @@ object Form6: TForm6
     Height = 25
     Kind = bkOK
     NumGlyphs = 2
-    TabOrder = 1
+    TabOrder = 0
     OnClick = BitBtn1Click
   end
   object Memo1: TMemo
@@ -55,7 +46,7 @@ object Form6: TForm6
     Top = 128
     Width = 545
     Height = 199
-    TabOrder = 2
+    TabOrder = 1
   end
   object Button2: TButton
     Left = 400
@@ -63,7 +54,7 @@ object Form6: TForm6
     Width = 75
     Height = 25
     Caption = #1051#1080#1089#1090#1080#1085#1075
-    TabOrder = 3
+    TabOrder = 2
     OnClick = Button2Click
   end
   object BitBtn2: TBitBtn
@@ -73,7 +64,7 @@ object Form6: TForm6
     Height = 25
     Kind = bkAbort
     NumGlyphs = 2
-    TabOrder = 4
+    TabOrder = 3
     OnClick = BitBtn2Click
   end
 end

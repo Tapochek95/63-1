@@ -9,7 +9,6 @@ uses
 type
   TForm17 = class(TForm)
     Label1: TLabel;
-    Button1: TButton;
     Button2: TButton;
     StringGrid1: TStringGrid;
     Label2: TLabel;

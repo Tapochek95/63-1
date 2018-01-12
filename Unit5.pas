@@ -9,7 +9,6 @@ uses
 type
   TForm5 = class(TForm)
     Label1: TLabel;
-    Button1: TButton;
     Memo1: TMemo;
     Button2: TButton;
     procedure Button1Click(Sender: TObject);

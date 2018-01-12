@@ -2,8 +2,8 @@ object Form9: TForm9
   Left = 0
   Top = 0
   Caption = #1052#1072#1089#1089#1080#1074#1099' '#1074' Delphi'
-  ClientHeight = 352
-  ClientWidth = 579
+  ClientHeight = 254
+  ClientWidth = 582
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -31,56 +31,37 @@ object Form9: TForm9
     ParentFont = False
     WordWrap = True
   end
-  object Button1: TButton
-    Left = 0
-    Top = 12
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 0
-    OnClick = Button1Click
-  end
   object Memo1: TMemo
     Left = 31
     Top = 128
-    Width = 522
-    Height = 161
-    TabOrder = 1
+    Width = 474
+    Height = 57
+    TabOrder = 0
   end
   object Edit1: TEdit
     Left = 31
-    Top = 312
+    Top = 216
     Width = 121
     Height = 21
-    TabOrder = 2
+    TabOrder = 1
   end
   object BitBtn1: TBitBtn
-    Left = 192
-    Top = 310
+    Left = 200
+    Top = 214
     Width = 75
     Height = 25
     Kind = bkOK
     NumGlyphs = 2
-    TabOrder = 3
+    TabOrder = 2
     OnClick = BitBtn1Click
   end
-  object BitBtn2: TBitBtn
-    Left = 335
-    Top = 310
-    Width = 75
-    Height = 25
-    Kind = bkAbort
-    NumGlyphs = 2
-    TabOrder = 4
-    OnClick = BitBtn2Click
-  end
   object Button2: TButton
-    Left = 478
-    Top = 310
+    Left = 334
+    Top = 216
     Width = 75
     Height = 25
     Caption = #1051#1080#1089#1090#1080#1085#1075
-    TabOrder = 5
+    TabOrder = 3
     OnClick = Button2Click
   end
 end

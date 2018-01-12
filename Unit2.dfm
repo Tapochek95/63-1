@@ -90,13 +90,4 @@ object Form2: TForm2
     WordWrap = True
     OnClick = Button4Click
   end
-  object Button5: TButton
-    Left = -1
-    Top = 8
-    Width = 27
-    Height = 25
-    Caption = '<-'
-    TabOrder = 4
-    OnClick = Button5Click
-  end
 end

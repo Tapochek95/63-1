@@ -85,22 +85,13 @@ object Form17: TForm17
     Font.Style = []
     ParentFont = False
   end
-  object Button1: TButton
-    Left = 1
-    Top = 22
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 0
-    OnClick = Button1Click
-  end
   object Button2: TButton
     Left = 566
     Top = 287
     Width = 75
     Height = 25
     Caption = #1051#1080#1089#1090#1080#1085#1075
-    TabOrder = 1
+    TabOrder = 0
     OnClick = Button2Click
   end
   object StringGrid1: TStringGrid
@@ -117,7 +108,7 @@ object Form17: TForm17
     Font.Style = []
     Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing, goTabs, goAlwaysShowEditor]
     ParentFont = False
-    TabOrder = 2
+    TabOrder = 1
     Visible = False
     RowHeights = (
       24
@@ -137,7 +128,7 @@ object Form17: TForm17
     Font.Name = 'Tahoma'
     Font.Style = []
     ParentFont = False
-    TabOrder = 3
+    TabOrder = 2
   end
   object Edit2: TEdit
     Left = 69
@@ -150,7 +141,7 @@ object Form17: TForm17
     Font.Name = 'Tahoma'
     Font.Style = []
     ParentFont = False
-    TabOrder = 4
+    TabOrder = 3
   end
   object BitBtn1: TBitBtn
     Left = 389
@@ -159,7 +150,7 @@ object Form17: TForm17
     Height = 25
     Kind = bkOK
     NumGlyphs = 2
-    TabOrder = 5
+    TabOrder = 4
     Visible = False
     OnClick = BitBtn1Click
   end
@@ -170,7 +161,7 @@ object Form17: TForm17
     Height = 25
     Kind = bkOK
     NumGlyphs = 2
-    TabOrder = 6
+    TabOrder = 5
     OnClick = BitBtn2Click
   end
 end

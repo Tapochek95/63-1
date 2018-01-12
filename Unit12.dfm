@@ -55,15 +55,6 @@ object Form12: TForm12
     Font.Style = []
     ParentFont = False
   end
-  object Button1: TButton
-    Left = 0
-    Top = 8
-    Width = 25
-    Height = 25
-    Caption = '<-'
-    TabOrder = 0
-    OnClick = Button1Click
-  end
   object BitBtn1: TBitBtn
     Left = 201
     Top = 107
@@ -71,7 +62,7 @@ object Form12: TForm12
     Height = 25
     Kind = bkOK
     NumGlyphs = 2
-    TabOrder = 1
+    TabOrder = 0
     OnClick = BitBtn1Click
   end
   object Button2: TButton
@@ -80,7 +71,7 @@ object Form12: TForm12
     Width = 75
     Height = 25
     Caption = #1051#1080#1089#1090#1080#1085#1075
-    TabOrder = 2
+    TabOrder = 1
     OnClick = Button2Click
   end
   object StringGrid1: TStringGrid
@@ -95,7 +86,7 @@ object Form12: TForm12
     GradientEndColor = clSilver
     Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing]
     ScrollBars = ssNone
-    TabOrder = 3
+    TabOrder = 2
     Visible = False
   end
   object Edit1: TEdit
@@ -103,7 +94,7 @@ object Form12: TForm12
     Top = 109
     Width = 121
     Height = 21
-    TabOrder = 4
+    TabOrder = 3
   end
   object BitBtn2: TBitBtn
     Left = 31
@@ -112,7 +103,7 @@ object Form12: TForm12
     Height = 25
     Kind = bkOK
     NumGlyphs = 2
-    TabOrder = 5
+    TabOrder = 4
     Visible = False
     OnClick = BitBtn2Click
   end
