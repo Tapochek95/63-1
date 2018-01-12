@@ -1,0 +1,61 @@
+unit Unit12;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Grids, Vcl.Buttons, Vcl.StdCtrls;
+
+type
+  TForm12 = class(TForm)
+    Label1: TLabel;
+    Button1: TButton;
+    BitBtn1: TBitBtn;
+    Button2: TButton;
+    StringGrid1: TStringGrid;
+    Label2: TLabel;
+    Label3: TLabel;
+    Edit1: TEdit;
+    Label4: TLabel;
+    procedure BitBtn1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form12: TForm12;
+
+implementation
+
+{$R *.dfm}
+
+uses Unit13;
+
+procedure TForm12.BitBtn1Click(Sender: TObject);
+var i,j,n:integer; sum,p:real;
+s,b:string;
+a:array[1..20] of real;
+begin
+try
+n:=strtoint(edit1.Text);
+StringGrid1.ColCount:=n;
+for i:=1 to n do if StringGrid1.cells[i-1,0]<>'' then
+a[i]:= strtofloat(StringGrid1.cells[i-1,0])
+else a[i]:=0;
+sum:=0; p:=1;
+for i:=1 to n do if a[i]>=0 then sum:=sum+a[i] else p:=p*a[i];
+Label3.Caption:=' Сумма положительных элементов массива: '+floattostr(sum) + #13 +' Произведение отрицательных элементов: '+floattostr(p);
+except
+on EConvertError do
+Label3.caption:=' Ошибка в записи числа '+StringGrid1.cells[i-1,0];
+end;
+end;
+procedure TForm12.Button2Click(Sender: TObject);
+begin
+form13.show;
+end;
+
+end.

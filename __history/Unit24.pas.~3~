@@ -1,0 +1,47 @@
+unit Unit24;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Grids, Vcl.Buttons;
+
+type
+  TForm24 = class(TForm)
+    Button1: TButton;
+    Button2: TButton;
+    Label1: TLabel;
+    Label2: TLabel;
+    Edit1: TEdit;
+    BitBtn1: TBitBtn;
+    Button3: TButton;
+    Label3: TLabel;
+    StringGrid1: TStringGrid;
+    procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form24: TForm24;
+
+implementation
+
+{$R *.dfm}
+
+uses Unit23, Unit25;
+
+procedure TForm24.Button1Click(Sender: TObject);
+begin
+form23.show;
+end;
+
+procedure TForm24.Button2Click(Sender: TObject);
+begin
+form25.show;
+end;
+
+end.

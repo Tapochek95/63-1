@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="5" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" ParallelWalk="True">
+		<Children>
+			<Child Name="Sys" Key="{D24848EC-6137-4A36-AC32-BC266A76184C}" ParallelWalk="True">
+				<Properties>
+					<Property Name="Name">
+						<Value PropertyType="0" Value="Sys" Type="5" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Project1" Key="{1AEE3CCD-760A-4532-927D-BC7BD9270B30}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="Project1" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="Form6" Key="{F5FAB2CC-5560-4438-8619-A84490AF17AD}" ParallelWalk="True">
+								<Image FileName="1168045704" Left="0" Top="0" Right="614" Bottom="418" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm6" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form6" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Memo1" Key="{C60BFE7B-CAE8-4E1B-8D3A-CE95DABFD10E}" ParallelWalk="True">
+										<Image FileName="1168045704" Left="39" Top="159" Right="584" Bottom="358" />
+										<TypeInfo Item0="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TMemo" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Memo1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BitBtn1" Key="{8C4B317C-03C2-4A72-82D5-1018A0F6C10D}" ParallelWalk="True">
+										<Image FileName="1918472910" Left="122" Top="372" Right="199" Bottom="397" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TBitBtn" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="BitBtn1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form5" Key="{8CF81ADA-261F-4BC9-AF06-F29446B71FBD}" ParallelWalk="True">
+								<Image FileName="1711404145" Left="0" Top="0" Right="485" Bottom="420" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm5" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form5" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Memo1" Key="{0534E003-BCF9-4F1C-BE40-CEF0A7B8E54F}" ParallelWalk="True">
+										<Image FileName="1711404145" Left="16" Top="103" Right="477" Bottom="360" />
+										<TypeInfo Item0="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TMemo" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Memo1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Button2" Key="{7A20C8BC-B58A-4BF6-8FA0-CFF028BD6EF3}" ParallelWalk="True">
+										<Image FileName="-1929437206" Left="394" Top="378" Right="469" Bottom="404" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button2" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form1" Key="{54A5C075-73C7-4CDE-BC59-0DFAC03F95C4}" ParallelWalk="True">
+								<Image FileName="-1085893128" Left="0" Top="0" Right="286" Bottom="361" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm1" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form1" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Button1" Key="{F7F226E9-0A0B-4200-BEFF-C5C0D72461AF}" ParallelWalk="True">
+										<Image FileName="-1085893128" Left="32" Top="124" Right="257" Bottom="185" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Button3" Key="{2961D318-D741-475A-8B98-427CB505CEE9}" ParallelWalk="True">
+										<Image FileName="1212862598" Left="32" Top="270" Right="257" Bottom="331" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button3" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Button2" Key="{9F4D63DA-B316-471E-86BB-D14E0AD52926}" ParallelWalk="True">
+										<Image FileName="-1466414038" Left="32" Top="196" Right="257" Bottom="257" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button2" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form2" Key="{8CDFB698-0494-4999-BF49-AEAB0B54FCDE}" ParallelWalk="True">
+								<Image FileName="-625709141" Left="0" Top="0" Right="311" Bottom="360" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm2" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form2" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Button1" Key="{EEC83FF3-E37E-43F2-9C2D-A3415518C03A}" ParallelWalk="True">
+										<Image FileName="-190793946" Left="40" Top="68" Right="289" Bottom="136" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form17" Key="{1FA59480-A2DD-4E7B-8427-A06D88939E73}" ParallelWalk="True">
+								<Image FileName="-505881886" Left="0" Top="0" Right="665" Bottom="357" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm17" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form17" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Edit1" Key="{9A9CC7E4-FDBA-4E2B-B516-04B924AD5234}" ParallelWalk="True">
+										<Image FileName="-505881886" Left="77" Top="196" Right="198" Bottom="223" />
+										<TypeInfo Item0="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TEdit" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Edit1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Edit2" Key="{B76284FB-4FA7-43D3-9603-D7BBCE72BEC3}" ParallelWalk="True">
+										<Image FileName="-1945630478" Left="77" Top="244" Right="198" Bottom="271" />
+										<TypeInfo Item0="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TEdit" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Edit2" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="StringGrid1" Key="{BDBEE814-AF2D-4599-91B7-07B2ED23B85A}" ParallelWalk="True">
+										<Image FileName="498031141" Left="269" Top="148" Right="649" Bottom="312" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TStringGrid" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="StringGrid1" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TInplaceEdit" Key="{8A599405-D6BB-48C0-A23E-33ED0D7AA7A3}" ParallelWalk="True">
+												<Image FileName="498031141" Left="271" Top="150" Right="335" Bottom="174" />
+												<TypeInfo Item0="{A6C10B08-D382-4E3F-99D8-09D4922AF294}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value PropertyType="0" Value="TInplaceEdit" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="BitBtn2" Key="{B05F7B30-D741-4DC3-8A3C-9641BAA56A16}" ParallelWalk="True">
+										<Image FileName="-1358001774" Left="37" Top="316" Right="112" Bottom="341" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TBitBtn" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="BitBtn2" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="BitBtn1" Key="{44FF5A8B-562F-4E1A-8E31-FFD1CF253225}" ParallelWalk="True">
+										<Image FileName="1416617852" Left="397" Top="318" Right="472" Bottom="343" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TBitBtn" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="BitBtn1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Button2" Key="{1669EDE5-EF47-470B-9792-B42EA64DD416}" ParallelWalk="True">
+										<Image FileName="-1771827010" Left="574" Top="318" Right="649" Bottom="343" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button2" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form18" Key="{B49F384E-9E37-4B65-9553-24E50075470C}" ParallelWalk="True">
+								<Image FileName="-229323606" Left="0" Top="0" Right="434" Bottom="471" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm18" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form18" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Memo1" Key="{365E49A7-A924-4BE1-8CEA-20394DA6E757}" ParallelWalk="True">
+										<Image FileName="-229323606" Left="8" Top="31" Right="425" Bottom="464" />
+										<TypeInfo Item0="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TMemo" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Memo1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form4" Key="{048FD9FF-C1AE-4EC4-8993-4A273CC0D1EF}" ParallelWalk="True">
+								<Image FileName="-2104283126" Left="0" Top="0" Right="301" Bottom="220" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm4" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form4" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Button1" Key="{956A8CDB-2BFE-4024-AC3E-E0F854DAD3D8}" ParallelWalk="True">
+										<Image FileName="-2104283126" Left="40" Top="68" Right="265" Bottom="125" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form15" Key="{95C3929E-9A4D-4D3D-A6DB-22E8DD68106E}" ParallelWalk="True">
+								<Image FileName="-911712801" Left="0" Top="0" Right="493" Bottom="418" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm15" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form15" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Button2" Key="{9BF45832-1CA1-48E1-BDF6-D1FD8484F50E}" ParallelWalk="True">
+										<Image FileName="-911712801" Left="392" Top="379" Right="467" Bottom="404" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button2" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Memo1" Key="{088541F2-A493-40FB-9EF0-EA5A890D631D}" ParallelWalk="True">
+										<Image FileName="1237009566" Left="16" Top="95" Right="475" Bottom="357" />
+										<TypeInfo Item0="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TMemo" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Memo1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form19" Key="{62A4F186-75F9-488E-9C16-C9606981A4F6}" ParallelWalk="True">
+								<Image FileName="436153874" Left="0" Top="0" Right="600" Bottom="646" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm19" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form19" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Memo1" Key="{B8036622-C480-4589-B1C7-7E445D9943BD}" ParallelWalk="True">
+										<Image FileName="436153874" Left="8" Top="31" Right="593" Bottom="640" />
+										<TypeInfo Item0="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TMemo" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Memo1" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="Form3" Key="{E91E3938-46ED-4903-8B53-8187B24F38C3}" ParallelWalk="True">
+								<Image FileName="1294514146" Left="0" Top="0" Right="271" Bottom="298" />
+								<Properties>
+									<Property Name="ClassName">
+										<Value PropertyType="0" Value="TForm3" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="Form3" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Button3" Key="{2FF88683-84FE-47C9-99F0-68093B6323F4}" ParallelWalk="True">
+										<Image FileName="1294514146" Left="40" Top="212" Right="245" Bottom="277" />
+										<TypeInfo Item0="{BF32343B-B84E-4C3A-9140-A79A7567730B}" />
+										<Properties>
+											<Property Name="ClassName">
+												<Value PropertyType="0" Value="TButton" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="Button3" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="Project1" Owner="{1AEE3CCD-760A-4532-927D-BC7BD9270B30}">
+			<Child Name="Form6" Owner="{F5FAB2CC-5560-4438-8619-A84490AF17AD}">
+				<Child Name="Memo1" Owner="{C60BFE7B-CAE8-4E1B-8D3A-CE95DABFD10E}" />
+				<Child Name="BitBtn1" Owner="{8C4B317C-03C2-4A72-82D5-1018A0F6C10D}" />
+			</Child>
+			<Child Name="Form5" Owner="{8CF81ADA-261F-4BC9-AF06-F29446B71FBD}">
+				<Child Name="Memo1" Owner="{0534E003-BCF9-4F1C-BE40-CEF0A7B8E54F}" />
+				<Child Name="Button2" Owner="{7A20C8BC-B58A-4BF6-8FA0-CFF028BD6EF3}" />
+			</Child>
+			<Child Name="Form1" Owner="{54A5C075-73C7-4CDE-BC59-0DFAC03F95C4}">
+				<Child Name="Button1" Owner="{F7F226E9-0A0B-4200-BEFF-C5C0D72461AF}" />
+				<Child Name="Button3" Owner="{2961D318-D741-475A-8B98-427CB505CEE9}" />
+				<Child Name="Button2" Owner="{9F4D63DA-B316-471E-86BB-D14E0AD52926}" />
+			</Child>
+			<Child Name="Form2" Owner="{8CDFB698-0494-4999-BF49-AEAB0B54FCDE}">
+				<Child Name="Button1" Owner="{EEC83FF3-E37E-43F2-9C2D-A3415518C03A}" />
+			</Child>
+			<Child Name="Form17" Owner="{1FA59480-A2DD-4E7B-8427-A06D88939E73}">
+				<Child Name="Edit1" Owner="{9A9CC7E4-FDBA-4E2B-B516-04B924AD5234}" />
+				<Child Name="Edit2" Owner="{B76284FB-4FA7-43D3-9603-D7BBCE72BEC3}" />
+				<Child Name="StringGrid1" Owner="{BDBEE814-AF2D-4599-91B7-07B2ED23B85A}">
+					<Child Name="TInplaceEdit" Owner="{8A599405-D6BB-48C0-A23E-33ED0D7AA7A3}" />
+				</Child>
+				<Child Name="BitBtn2" Owner="{B05F7B30-D741-4DC3-8A3C-9641BAA56A16}" />
+				<Child Name="BitBtn1" Owner="{44FF5A8B-562F-4E1A-8E31-FFD1CF253225}" />
+				<Child Name="Button2" Owner="{1669EDE5-EF47-470B-9792-B42EA64DD416}" />
+			</Child>
+			<Child Name="Form18" Owner="{B49F384E-9E37-4B65-9553-24E50075470C}">
+				<Child Name="Memo1" Owner="{365E49A7-A924-4BE1-8CEA-20394DA6E757}" />
+			</Child>
+			<Child Name="Form4" Owner="{048FD9FF-C1AE-4EC4-8993-4A273CC0D1EF}">
+				<Child Name="Button1" Owner="{956A8CDB-2BFE-4024-AC3E-E0F854DAD3D8}" />
+			</Child>
+			<Child Name="Form15" Owner="{95C3929E-9A4D-4D3D-A6DB-22E8DD68106E}">
+				<Child Name="Button2" Owner="{9BF45832-1CA1-48E1-BDF6-D1FD8484F50E}" />
+				<Child Name="Memo1" Owner="{088541F2-A493-40FB-9EF0-EA5A890D631D}" />
+			</Child>
+			<Child Name="Form19" Owner="{62A4F186-75F9-488E-9C16-C9606981A4F6}">
+				<Child Name="Memo1" Owner="{B8036622-C480-4589-B1C7-7E445D9943BD}" />
+			</Child>
+			<Child Name="Form3" Owner="{E91E3938-46ED-4903-8B53-8187B24F38C3}">
+				<Child Name="Button3" Owner="{2FF88683-84FE-47C9-99F0-68093B6323F4}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+	<TypeInfo StoreCodeCompletion="1">
+		<Child Hash="-934726023" Key="{DD214EB7-153E-4062-86EA-4C3D8A4C9501}">
+			<Data Properties="CF9A1B38DA38104486337836FD5A654BUFFFFFFFFFFFFFFFFV4LCZZY">
+				<FunctionDescriptions>
+					<Child Name="SetText" Doc="Enters text in the text editor." IsBasic="True" Param0="Text" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="wText" Doc="Contents of the edit control, as text string." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="wSelection" Doc="Retrieves the selected text." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="1098928521" Key="{BF32343B-B84E-4C3A-9140-A79A7567730B}">
+			<Data Properties="E1E25D7BCE2DAA4BB951F0F28069C91EUFFFFFFFFFFFFFFFFV4LAZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="268948303" Key="{A6C10B08-D382-4E3F-99D8-09D4922AF294}">
+			<Data Properties="98153ABDF0A10F4BB415370CC1DFEF36UFFFFFFFFFFFFFFFFV4L9ZZY">
+				<FunctionDescriptions>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+	</TypeInfo>
+</Root>

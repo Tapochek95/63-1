@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{99A86967-E27B-49B9-9C75-E6A7992B94F6}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="43092.209224537" objectName="Aliases.Project1.Form1.Button1" objectLeft="32" objectTop="124" objectRight="257" objectBottom="185" clickPointX="136" clickPointY="143" imageFileName="tcvi1804778127601.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43092.2092476852" objectName="Aliases.Project1.Form2.Button1" objectLeft="40" objectTop="68" objectRight="289" objectBottom="136" clickPointX="194" clickPointY="114" imageFileName="tcvi1805043727605.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43092.2093171296" objectName="Aliases.Project1.Form5.Button2" objectLeft="394" objectTop="378" objectRight="469" objectBottom="404" clickPointX="444" clickPointY="388" imageFileName="tcvi1805632827608.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="43092.2094560185" objectName="Aliases.Project1.Form6.Memo1" objectLeft="39" objectTop="159" objectRight="584" objectBottom="358" clickPointX="205" clickPointY="236" imageFileName="tcvi1806814027609.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="43092.2094675926" objectName="Aliases.Project1.Form6.Memo1" objectLeft="39" objectTop="159" objectRight="584" objectBottom="358" clickPointX="-105" clickPointY="-105" imageFileName="tcvi18069406276011.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="43092.2095023148" objectName="Aliases.Project1.Form6.BitBtn1" objectLeft="122" objectTop="372" objectRight="199" objectBottom="397" clickPointX="167" clickPointY="378" imageFileName="tcvi18072500276019.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

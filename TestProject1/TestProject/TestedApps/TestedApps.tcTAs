@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1140" key="{9ECB9C7C-BAD6-4A69-9DE0-7C72E745824B}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{C64C5016-CFD3-41F9-8C63-C98447ABE54D}" type="Tested Application" typeId="{FD30A383-63C2-4C25-948C-2595C0F81320}">
+			<config nodeName="Project1" autorunOnRecording="True" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\Иван\Desktop\63-1" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\Иван\Desktop\63-1" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\Иван\Desktop\63-1" />
+					<param name="Simple" fileName="Project1.exe" filePath="C:\Users\Иван\Desktop\63-1\Win32\Debug\" parameters="" workFolder="C:\Users\Иван\Desktop\63-1" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+	<folders />
+</Root>
