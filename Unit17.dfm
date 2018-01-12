@@ -4,7 +4,7 @@ object Form17: TForm17
   Caption = #1055#1088#1080#1084#1077#1088
   ClientHeight = 318
   ClientWidth = 649
-  Color = clBtnFace
+  Color = clWhite
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

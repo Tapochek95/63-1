@@ -4,7 +4,7 @@ object Form23: TForm23
   Caption = 'Form23'
   ClientHeight = 378
   ClientWidth = 466
-  Color = clBtnFace
+  Color = clWhite
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

@@ -4,7 +4,7 @@ object Form24: TForm24
   Caption = 'Form24'
   ClientHeight = 401
   ClientWidth = 681
-  Color = clBtnFace
+  Color = clWhite
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

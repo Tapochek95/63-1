@@ -4,7 +4,7 @@ object Form21: TForm21
   Caption = 'Form21'
   ClientHeight = 386
   ClientWidth = 464
-  Color = clBtnFace
+  Color = clWhite
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

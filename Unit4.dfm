@@ -4,7 +4,7 @@ object Form4: TForm4
   Caption = #1052#1072#1089#1089#1080#1074#1099' '#1074' Delphi'
   ClientHeight = 181
   ClientWidth = 285
-  Color = clSilver
+  Color = clWhite
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clSilver
   Font.Height = -11
